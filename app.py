@@ -21,7 +21,7 @@ def hello_world():
               />▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀<br 
 	      /><br
               /><br>
-                <b>Powered By SAINI BOTS</b>
+                <b>Powered By ASHU BOTS</b>
 		</center>
             </p>
         </a>
