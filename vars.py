@@ -10,6 +10,10 @@ BOT_TOKEN = environ.get("BOT_TOKEN", "8363500332:AAERh-vrIlkAnXRKyp2MtQkEZWoBiIp
 OWNER = int(environ.get("OWNER", "1355969543"))
 CREDIT = environ.get("CREDIT", "ASHU BOT")
 
+
+# Channel Configuration
+PREMIUM_CHANNEL = "https://t.me/+FqvxTIl-WBYxYTZl"
+
 TOTAL_USER = os.environ.get('TOTAL_USERS', '5680454765').split(',')
 TOTAL_USERS = [int(user_id) for user_id in TOTAL_USER]
 
@@ -20,6 +24,7 @@ if int(OWNER) not in AUTH_USERS:
   
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
+
 
 
 
